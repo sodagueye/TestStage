@@ -1,0 +1,210 @@
+/* menu */
+.borderhr {
+    border: 2px solid #18de9f;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.nav-link.active {
+    background-color: #18de9f;
+    color: white;
+    padding-bottom: 22px;
+    margin-bottom: 0;
+
+}
+
+.bi-telephone-fill {
+    background-color: #18de9f;
+    border-radius: 50%;
+    padding: 4px;
+    font-size: 10px;
+}
+
+.point {
+    list-style-type: none;
+    font-size: 14px;
+}
+
+.watsap {
+    display: flex;
+    gap: 6px;
+    color: rgb(89, 88, 88)
+}
+
+.home {
+    font-size: 14px;
+}
+
+/* .navbar ul li a.active{
+    background-color: ;
+} */
+
+.navbar .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* end menu */
+
+/* Style de la bannière */
+.bannier {
+    background-image: url('/images/slider-image2.jpg');
+    background-size: cover;
+    height: 550px;
+    display: flex;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+
+}
+
+.texte-bannier {
+    color: white;
+    position: relative;
+    top: 100px;
+    margin-left: 70px;
+    padding-top: 50px;
+}
+
+.take-course {
+    border: 1px solid white;
+    border-radius: 50px;
+    color: white;
+
+}
+
+.take-course:hover {
+    border: 1px solid white;
+    border-radius: 50px;
+    color: white;
+
+}
+
+.jouney {
+    font-size: 40px;
+}
+
+.online {
+    font-size: 16px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+/* team */
+.team {
+    background-color: rgba(226, 226, 225, 0.832);
+}
+
+.description {
+    font-size: 14px;
+    color: rgb(66, 65, 65);
+}
+
+.auteur {
+    color: rgb(66, 65, 65);
+    font-size: 18px;
+}
+
+.Teachers {
+    color: rgb(66, 65, 65);
+}
+
+.trainers {
+    color: rgb(105, 102, 102);
+    font-size: 14px;
+}
+
+.card-img-top {
+    object-fit: cover;
+}
+
+/* courses */
+.cousrer {
+    width: 350px;
+}
+
+/* contact */
+.contact-container {
+    background-color: rgb(63, 83, 184);
+    height: 700px;
+}
+
+.love {
+    font-size: 14px;
+    color: rgb(224, 221, 221);
+}
+
+.message {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.message:hover {
+    background-color: white;
+
+}
+
+/* footer */
+.footer {
+    height: 400px;
+}
+
+.hello {
+    color: rgb(109, 108, 108);
+    font-size: 14px;
+}
+
+.business {
+    background-color: rgba(226, 226, 225, 0.832);
+    padding: 10px;
+}
+
+.rond {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.lorem {
+    font-size: 12px;
+    color: rgb(109, 108, 108);
+
+}
+
+.free-button {
+    background-color: rgb(63, 83, 184);
+    color: white;
+    border: none;
+    font-size: 14px;
+
+}
+
+.Jessica {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.ingtext {
+    display: flex;
+    gap: 4px;
+
+}
+
+.USD {
+    background-color: #18de9f;
+    color: white;
+    border: none;
+    font-size: 12px;
+}
+
+.leff {
+    border: none;
+    background-color: rgb(226, 225, 225);
+}

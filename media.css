@@ -1,0 +1,42 @@
+@media screen and (max-width: 799px) {
+  .bannier {
+
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 550px;
+    display: flex;
+    background-repeat: no-repeat;
+  }
+
+  .contact-container {
+
+    height: 900px;
+  }
+
+  .cousrer {
+    margin-bottom: 20px;
+
+  }
+
+  .interg {
+    text-align: center;
+    margin: auto;
+  }
+
+  .business {
+    margin-bottom: 20px;
+  }
+  .take-course {
+    border: 1px solid white;
+    border-radius: 50px;
+    color: white;
+
+}
+.defar{
+  margin: 0px;
+
+}
+
+}

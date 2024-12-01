@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Mark Wilson",
+      "description": "I love Teaching",
+      "image": "images/author-image1.jpg",
+      "socials": [
+        {
+          "facebook": "https://facebook.com",
+          "twitter": "https://twitter.com",
+          "linkedin": "https://linkedin.com",
+          "instagram": "https://instagram.com",
+          "gmail": "https://gmail.com",
+          "mail": "author1@epp.fr",
+          "behance": "https://behance.com"
+        }
+      ]
+    },
+    {
+        "name": "Catherine",
+        "description": "Education is the key",
+        "image": "images/author-image2.jpg",
+        "socials": [
+          {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "instagram": "https://instagram.com",
+            "gmail": "https://gmail.com",
+            "mail": "author2@epp.fr",
+            "behance": "https://behance.com"
+          }
+        ]
+    },
+    {
+        "name": "Jessie Ca",
+        "description": "I llike Online Courses",
+        "image": "images/author-image3.jpg",
+        "socials": [
+          {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "instagram": "https://instagram.com",
+            "gmail": "https://gmail.com",
+            "mail": "author3@epp.fr",
+            "behance": "https://behance.com"
+          }
+        ]
+    },
+    {
+        "name": "Andrew Bert",
+        "description": "Learning is fun",
+        "image": "images/author-image4.jpg",
+        "socials": [
+          {
+            "facebook": "https://facebook.com",
+            "twitter": "https://twitter.com",
+            "linkedin": "https://linkedin.com",
+            "instagram": "https://instagram.com",
+            "gmail": "https://gmail.com",
+            "mail": "author4@epp.fr",
+            "behance": "https://behance.com"
+          }
+        ]
+    }
+  ]
